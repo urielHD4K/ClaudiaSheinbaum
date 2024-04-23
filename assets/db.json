@@ -1,0 +1,54 @@
+{
+   "hoteles" : [
+    {
+      "id": 1,
+      "name": "Hotel San Francisco Tlaxcala",
+      "host": "Pedro Hernandez",
+      "price": "1,319",
+      "capacity": "4",
+      "address": {
+        "street": "Plaza de la Constitución 17",
+        "suite": "Apt. 001",
+        "city": "Tlaxcala",
+        "state": "Tlaxcala",
+        "cp": "90000"
+      },
+      "phone": "1-770-736-8031",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/48/9b/7f/hotel-posada-san-francisco.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "id": 2,
+      "name": "Hotel San Francisco Tlaxcala",
+      "host": "Pedro Hernandez",
+      "price": "1,319",
+      "capacity": "4",
+      "address": {
+        "street": "Plaza de la Constitución 17",
+        "suite": "Apt. 001",
+        "city": "Tlaxcala",
+        "state": "Tlaxcala",
+        "cp": "90000"
+      },
+      "phone": "1-770-736-8031",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/48/9b/7f/hotel-posada-san-francisco.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "id": 3,
+      "name": "Hotel San Francisco Tlaxcala",
+      "host": "Pedro Hernandez",
+      "price": "1,319",
+      "capacity": "4",
+      "address": {
+        "street": "Plaza de la Constitución 17",
+        "suite": "Apt. 001",
+        "city": "Tlaxcala",
+        "state": "Tlaxcala",
+        "cp": "90000"
+      },
+      "phone": "1-770-736-8031",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/48/9b/7f/hotel-posada-san-francisco.jpg?w=1200&h=-1&s=1"
+    }
+    ]
+}
+
+
